@@ -6,7 +6,7 @@ A simple **Redux counter application** built with Redux Toolkit to practice stat
 
 Below is a preview of the Redux Counter application UI:
 
-![Redux Counter Preview](.Screenshot1.png)
+![Redux Counter Preview](Screenshot1.png)
 
 ## 🚀 Features
 - Increment counter
