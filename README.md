@@ -2,6 +2,12 @@
 
 A simple **Redux counter application** built with Redux Toolkit to practice state management.
 
+## 📸 Preview
+
+Below is a preview of the Redux Counter application UI:
+
+![Redux Counter Preview](.Screenshot1.png)
+
 ## 🚀 Features
 - Increment counter
 - Decrement counter
